@@ -51,10 +51,6 @@ To run this project locally, follow these steps:
 - JavaScript
 - Bootstrap 4.2.1
 
-Website can be accessed 
-
-
-
 ---
-
-This project was created by Team 2 Group 5 as a part of the Operating Systems Lab course.
+Website can be accessed [here]{https://devanshi-bavaria.github.io/Disk-Scheduling-Algo-Simulation/}
+This project was created as a part of the Operating Systems Lab course.
