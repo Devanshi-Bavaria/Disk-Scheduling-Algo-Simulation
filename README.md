@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   [git clone https://github.com/manavukani/Disk-Scheduling-Algorithm-Simulation.git](https://github.com/Devanshi-Bavaria/Disk-Scheduling-Algo-Simulation.git)
+   https://github.com/Devanshi-Bavaria/Disk-Scheduling-Algo-Simulation.git
    ```
 2. Navigate to the project directory:
    ```sh
