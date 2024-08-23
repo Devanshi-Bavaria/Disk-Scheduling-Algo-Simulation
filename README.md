@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/manavukani/Disk-Scheduling-Algorithm-Simulation.git
+   [git clone https://github.com/manavukani/Disk-Scheduling-Algorithm-Simulation.git](https://github.com/Devanshi-Bavaria/Disk-Scheduling-Algo-Simulation.git)
    ```
 2. Navigate to the project directory:
    ```sh
@@ -51,18 +51,7 @@ To run this project locally, follow these steps:
 - JavaScript
 - Bootstrap 4.2.1
 
-## Screenshots
-
-
-![image](https://github.com/user-attachments/assets/dfc273b2-3d02-489b-8744-1381d81e75dc)
-
-![image](https://github.com/user-attachments/assets/4fadda85-7dbe-4678-840b-8ae2bd05be92)
-
-![image](https://github.com/user-attachments/assets/e6bddcef-3ebe-448d-84fd-f2d64bed760a)
-
-![image](https://github.com/user-attachments/assets/93ddd2ec-8773-4110-afef-d4750959d15f)
-
-![image](https://github.com/user-attachments/assets/951a7073-02f2-4b11-9849-b57f2a2c9ade)
+Website can be accessed 
 
 
 
